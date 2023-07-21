@@ -1,2 +1,2 @@
-# metamaker
-Script for entering metadata related to auditioned audio files
+# Metamaker
+Script for inputing metadata related to auditioned audio files.
